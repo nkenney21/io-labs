@@ -1,0 +1,32 @@
+Neil
+Kenney
+123 Main Street
+Sussex
+WI
+53089
+Neil@gmail.com
+2621112222
+Will
+Smith
+456 Orchard Court
+Pewaukee
+WI
+53066
+will@gmail.com
+2622223333
+Jane
+Monroe
+789 Apple Lane
+Waukesha
+WI
+54234
+jane@gmail.com
+2623334444
+Mary
+Johnson
+424 Banana Street
+Lannon
+WI
+53046
+mary@gmail.com
+2627778888
